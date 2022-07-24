@@ -8,7 +8,7 @@ I'm a 17 years old Hungarian guy who is interested in Web development, Biology a
 
 * 🌍  I'm based in Szeged, Hungary (It's a town in Csongrád-Csanád County on the Great Hungarian Plain and it's also known as the "City of Sunshine", because it has the most sunny days throughout the year.
 * 🧠  I'm learning PHP because I'm trash
-* ⚡  I'm a Hungarian Translator at upload.systems, Emoji Guardian Bot and Head Moderator on ItzNexus' League.
+* ⚡  I'm a Hungarian Translator at upload.systems and I also translated Emoji Guardian Discord bot.
 
 <a href="https://www.twitter.com/mateqaah" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mateqaah?logo=twitter&style=for-the-badge&color=14b8a6&labelColor=181824"
